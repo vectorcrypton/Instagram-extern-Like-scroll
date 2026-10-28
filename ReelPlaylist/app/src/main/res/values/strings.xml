@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Playlist</string>
+    <string name="service_desc">Erkennt, wenn Instagram im Vordergrund ist, und öffnet per Lautstärketaste, Button oder Swipe das nächste Reel aus deiner importierten Likes-/Gespeichert-Liste. Es werden keine Inhalte gelesen oder gespeichert, nur der Paketname der App und Scroll-Ereignisse von Instagram werden ausgewertet.</string>
+</resources>
